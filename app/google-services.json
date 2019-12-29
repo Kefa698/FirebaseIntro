@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "88549049167",
+    "firebase_url": "https://learning-firebase-50deb.firebaseio.com",
+    "project_id": "learning-firebase-50deb",
+    "storage_bucket": "learning-firebase-50deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88549049167:android:8f5738cdce8cffb8abfb3a",
+        "android_client_info": {
+          "package_name": "com.kefa.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88549049167-253l01sdl4v1gq7g1583sc573n4lmrs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUZQLCzPw47mw27H3O3Vv-Vp_QEwrtVLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88549049167-253l01sdl4v1gq7g1583sc573n4lmrs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
